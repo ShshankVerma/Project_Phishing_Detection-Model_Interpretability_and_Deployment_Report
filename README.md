@@ -53,6 +53,12 @@ Notable fields:
 | Random Forest      | High     | High      | High   | High     | High    |
 | Logistic, SVM, DT  | Good     | Moderate  | Moderate | Moderate | Moderate |
 
+Accuracy: 95.2%
+Precision: 94.8%
+Recall: 95.6%
+F1 Score: 95.2%
+ROC-AUC: 0.97
+
 ---
 
 ## 🔍 Explainability with SHAP
